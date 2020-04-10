@@ -31,3 +31,7 @@ python contrib/env_gen.py
 python manage.py migrate
 ```
 
+## Links:
+
+https://github.com/rg3915/tutoriais/tree/master/django-basic#deploy-no-heroku
+
