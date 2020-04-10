@@ -35,3 +35,5 @@ python manage.py migrate
 
 https://github.com/rg3915/tutoriais/tree/master/django-basic#deploy-no-heroku
 
+https://github.com/alefesouza/vue-intro
+
