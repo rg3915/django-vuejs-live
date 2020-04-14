@@ -2,12 +2,6 @@ from django.db import models
 
 
 class Language(models.Model):
-    'id',
-    'name',
-    'creator',
-    'year',
-    'typed',
-
     name = models.CharField(max_length=100)
     creator = models.CharField(max_length=100, null=True, blank=True)
     year = models.PositiveIntegerField(null=True, blank=True)
